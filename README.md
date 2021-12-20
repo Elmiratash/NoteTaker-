@@ -28,10 +28,10 @@ Please install these dependencies to run this application: Express.js
 ## Usage :
 
 Please run node server.js in your terminal and on your browser type http://localhost:3001/, click "Get Started" and enter the note and text, then click save.
+Please check these link. https://watch.screencastify.com/v/bcanOwek4dcPj6dOZhAH and https://notetaker-node-et.herokuapp.com/
 
 ![NoteTaker-](./Assets/Page1.png)
 ![NoteTaker-](./Assets/Page2.png)
-https://notetaker-node-et.herokuapp.com/
 
 ## Contribution
 
